@@ -1,0 +1,6 @@
+framework module WSNetworkModule {
+  umbrella header "WSNetworkModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

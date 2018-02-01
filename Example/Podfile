@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSNetworkModule_Example' do
+  pod 'WSNetworkModule', :path => '../'
+
+  target 'WSNetworkModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

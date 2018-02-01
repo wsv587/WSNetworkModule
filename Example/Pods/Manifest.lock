@@ -1,0 +1,16 @@
+PODS:
+  - WSNetworkModule (0.1.0)
+
+DEPENDENCIES:
+  - WSNetworkModule (from `../`)
+
+EXTERNAL SOURCES:
+  WSNetworkModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WSNetworkModule: 2d59fa966c633bbaa7450c2889b785b2f7dea8a7
+
+PODFILE CHECKSUM: 66ff21d0f8a20893abb22bb18aace55b5483cd9f
+
+COCOAPODS: 1.3.1
