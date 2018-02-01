@@ -2,21 +2,25 @@
   "name": "WSNetworkModule",
   "version": "0.1.0",
   "summary": "A short description of WSNetworkModule.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wsv587/WSNetworkModule",
+  "description": ".........................................",
+  "homepage": "http://EXAMPLE/WSNetworkModule",
   "license": {
     "type": "MIT",
-    "file": "LICENSE"
+    "file": "FILE_LICENSE"
   },
   "authors": {
-    "nlgb": "943886881@qq.com"
+    "sw": "943886881@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
   },
   "source": {
     "git": "https://github.com/wsv587/WSNetworkModule.git",
     "tag": "0.1.0"
   },
-  "platforms": {
-    "ios": "8.0"
-  },
-  "source_files": "WSNetworkModule/Classes/**/*"
+  "source_files": [
+    "WSNetworkModule",
+    "WSNetworkModule/Classes/WSNetworkModule/*.{h,m}"
+  ],
+  "requires_arc": true
 }

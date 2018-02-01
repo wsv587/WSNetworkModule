@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  WSNetworkModule: 2d59fa966c633bbaa7450c2889b785b2f7dea8a7
+  WSNetworkModule: 46912ef69bacb3f2d48698ac14350e7da2b59ac2
 
 PODFILE CHECKSUM: 66ff21d0f8a20893abb22bb18aace55b5483cd9f
 
